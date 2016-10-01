@@ -1,0 +1,40 @@
+{
+  "name": "PersonalityInsightsNodejsStarterApp",
+  "version": "0.1.10",
+  "description": "A sample nodejs app for Bluemix that use the Personality Insights service",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "cookie-parser": "^1.4.0",
+    "csurf": "^1.8.3",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-rate-limit": "^2.0.2",
+    "express-secure-only": "^0.2.1",
+    "helmet": "^0.13.0",
+    "i18next": "^1.10.2",
+    "morgan": "^1.6.1",
+    "request": "^2.65.0",
+    "watson-developer-cloud": "^1.0.0-beta.1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson-developer-cloud/personality-insights-nodejs.git"
+  },
+  "author": "IBM Corp.",
+  "contributors": [
+    {
+      "name": "German Attanasio Ruiz",
+      "email": "germanatt@us.ibm.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/watson-developer-cloud/personality-insights-nodejs/issues"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
