@@ -382,4 +382,12 @@ function showVizualization(theProfile) {
   onSampleTextChange();
   $content.keyup(updateWordsCount);
   $('.sample-radio').change(onSampleTextChange);
+  
+  /**
+   * Function to store personality data into a CloudantNoSQL DB
+   */
+ /** function storeDb(){
+  	require('flatten').load()
+  }*/
+  
 });
