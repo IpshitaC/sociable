@@ -1,11 +1,12 @@
-# Sociable 
+# Sociable (Powered by IBM Watson) ![](/assets/watson.gif)
 
 **Table of Contents** 
   1. [About](#about-sociable)
   2. [How does it work?](#how-does-it-work)
   4. [Technologies Used](#technologies-used)
-  5. [Contributing](#contributing)
-  6. [License:](#license)
+  5. [Demo](#demo)
+  6. [Contributing](#contributing)
+  7. [License:](#license)
 
 ## About Sociable:
 Sociable is a personality insights based web-application which gives detailed insights of a person's characteristics, based on the analysis of a body of text written by them.
@@ -21,14 +22,16 @@ We need a minimum of 3500 words and ideally 6000 words or more to compute statis
 The text can be an extract from cover letters or statements of purposes or essays submitted by the applicant Anything containing words we use in every day life relating to personal experiences, thoughts and responses works! [Read more](http://www.ibm.com/watson/developercloud/doc/personality-insights/guidance.shtml#optimal)
 
 **Currently works for English and Spanish**
-### Here's a sample analysis of Donald Trump's speech as presidential candidate that I did just for fun! 
-![donaldtrump](/assets/donaldtrump.png)
 
 ## Technologies Used:
 * JavaScript
 * CSS, HTML
 * IBM Watson Personality Analysis Service
 * IBM Node.js Starter Pack
+
+## Demo
+**Here's a sample analysis of Donald Trump's speech as presidential candidate that I did just for fun!** 
+![donaldtrump](/assets/donaldtrump.png)
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/IpshitaC/sociable/blob/master/CONTRIBUTING.md) for more details.
