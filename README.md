@@ -1,14 +1,30 @@
 # Sociable 
 
+**Table of Contents** 
+  1. [About](#about-sociable)
+  2. [How does it work?](#how-does-it-work)
+  4. [Technologies Used](#technologies-used)
+  5. [Contributing](#contributing)
+  6. [License:](#license)
+
+## About Sociable:
 Sociable is a personality insights based web-application which gives detailed insights of a person's characteristics, based on the analysis of a body of text written by them.
-This tool is designed for the use of HR Managers and other hiring professionals, who need to determine the applicant's character, personality and compaitability to the organisation, often without meeting them in person. This app gives detailed and accurate insights, based on the sample text written by the applicants.
+This tool is designed for the use of HR Managers and other hiring professionals, who need to determine the applicant's character, personality and compatibility to the organisation, often without meeting them in person. This app gives detailed and accurate insights, based on the sample text written by the applicants.
 
 This application was built during the #IBM include < geek.tech > Hackathon, Delhi. 
 
-## Deployment
-Sociable is deployed on [IBM Bluemix](http://sociable.mybluemix.net/).
+**Sociable is deployed on [IBM Bluemix](http://sociable.mybluemix.net/).**
 
-## Built With
+## How does it work?
+We need a minimum of 3500 words and ideally 6000 words or more to compute statistically significant results. [Read more](http://www.ibm.com/watson/developercloud/doc/personality-insights/science.shtml)
+
+The text can be an extract from cover letters or statements of purposes or essays submitted by the applicant Anything containing words we use in every day life relating to personal experiences, thoughts and responses works! [Read more](http://www.ibm.com/watson/developercloud/doc/personality-insights/guidance.shtml#optimal)
+
+**Currently works for English and Spanish**
+### Here's a sample analysis of Donald Trump's speech as presidential candidate that I did just for fun! 
+![donaldtrump](/assets/donaldtrump.png)
+
+## Technologies Used:
 * JavaScript
 * CSS, HTML
 * IBM Watson Personality Analysis Service
@@ -16,6 +32,8 @@ Sociable is deployed on [IBM Bluemix](http://sociable.mybluemix.net/).
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/IpshitaC/sociable/blob/master/CONTRIBUTING.md) for more details.
+Or 
+Reach out to me via [mail](mailto:chatterjeei08@gmail.com)
 
 ## License
-Sociable is licensed under Apache 2.0 license. See [LICENSE.md](https://github.com/IpshitaC/sociable/blob/master/LICENSE) for more details.
+Sociable is licensed under Apache 2.0 license. See [LICENSE](https://github.com/IpshitaC/sociable/blob/master/LICENSE) for more details.
