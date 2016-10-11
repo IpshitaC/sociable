@@ -5,8 +5,9 @@
   2. [How does it work?](#how-does-it-work)
   4. [Technologies Used](#technologies-used)
   5. [Demo](#demo)
-  6. [Contributing](#contributing)
-  7. [License:](#license)
+  6. [Installation](#installation)
+  7. [Contributing](#contributing)
+  8. [License:](#license)
 
 ## About Sociable:
 Sociable is a personality insights based web-application which gives detailed insights of a person's characteristics, based on the analysis of a body of text written by them.
@@ -28,6 +29,11 @@ The text can be an extract from cover letters or statements of purposes or essay
 * CSS, HTML
 * IBM Watson Personality Analysis Service
 * IBM Node.js Starter Pack
+
+## Installation
+1. [Clone or download](https://github.com/IpshitaC/sociable.git) the repo
+2. Replace the default placeholders of username and password, in the service wrapper of [app.js](https://github.com/IpshitaC/sociable/blob/master/app.js)
+3. node app.js
 
 ## Demo
 **Here's a sample analysis of Donald Trump's speech as presidential candidate that I did just for fun!** 
