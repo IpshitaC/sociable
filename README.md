@@ -7,7 +7,7 @@
   5. [Demo](#demo)
   6. [Installation](#installation)
   7. [Contributing](#contributing)
-  8. [License:](#license)
+  8. [License](#license)
 
 ## About Sociable:
 Sociable is a personality insights based web-application which gives detailed insights of a person's characteristics, based on the analysis of a body of text written by them.
@@ -31,7 +31,7 @@ The text can be an extract from cover letters or statements of purposes or essay
 ## Installation
 1. [Clone or download](https://github.com/IpshitaC/sociable.git) the repo
 2. Replace the default placeholders of username and password, in the service wrapper of [app.js](https://github.com/IpshitaC/sociable/blob/master/app.js)
-3. node app.js
+3. Run node app.js
 
 ## Demo
 **Here's a sample analysis of Donald Trump's speech as presidential candidate that I did just for fun!** 
