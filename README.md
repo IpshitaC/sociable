@@ -15,8 +15,6 @@ This tool is designed for the use of HR Managers and other hiring professionals,
 
 This application was built during the #IBM include < geek.tech > Hackathon, Delhi. 
 
-**Sociable is deployed on [IBM Bluemix](http://sociable.mybluemix.net/).**
-
 ## How does it work?
 We need a minimum of 3500 words and ideally 6000 words or more to compute statistically significant results. [Read more](http://www.ibm.com/watson/developercloud/doc/personality-insights/science.shtml)
 
