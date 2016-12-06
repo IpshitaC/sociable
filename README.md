@@ -1,4 +1,4 @@
-# Sociable (Powered by IBM Watson) ![](/assets/watson.gif)
+# :notebook: Sociable (Powered by IBM Watson) ![](/assets/watson.gif)
 
 **Table of Contents** 
   1. [About](#about-sociable)
